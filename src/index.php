@@ -17,7 +17,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC");
 <body>
 <div class = "container">
 	<div class="jumbotron">
-      <h1 class="display-4">Simple LAMP web app</h1>
+      <h1 class="display-4">Simple LAMP web app Prueba push</h1>
       <p class="lead">Demo app</p>
     </div>	
 	<a href="add.html" class="btn btn-primary">Add New Data</a><br/><br/>
